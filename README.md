@@ -1,4 +1,4 @@
-# Ola, seja bem-vindo ao meu perfil!! 👋
+# Olá, seja bem-vindo ao meu perfil!! 👋
 <div>
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Programando" width="100%" />
 </div>
