@@ -1,4 +1,7 @@
 # Olá, seja bem-vindo ao meu perfil!! 👋
+
+(Novidade): Acesse o blog da <a href="https://blog.saltfix.com.br">Saltfix Tecnologia</a>.
+
 <div>
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Programando" width="100%" />
 </div>
